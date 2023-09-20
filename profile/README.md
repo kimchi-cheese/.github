@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" colspan="1">
-      <b>Leader / AI/Backend</b>
+      <b>Leader / AI / Backend</b>
     </td>
     <td align="center" colspan="1">
       <b>Frontend</b>
